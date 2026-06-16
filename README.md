@@ -2,6 +2,15 @@
 
 ## Dashboard KPI pour la production aéronautique
 
+Aperçu du dashboard interactif utilisé pour le suivi des KPI de production aéronautique.
+
+![AeroTrack Dashboard](./dashboard.png)
+
+Le dashboard permet de suivre :
+- la production
+- le taux de défaut
+- les délais de fabrication
+- le backlog des commandes
 ---
 
 ## Présentation
