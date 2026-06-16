@@ -1,4 +1,4 @@
-# ✈️ AeroTrack — Dashboard KPI Production Aéronautique
+#  Dashboard KPI Production Aéronautique
 
 ## Objectif
 Simuler le suivi d'une chaîne de production aéronautique 
